@@ -17,8 +17,6 @@ This simulation project work has been performed as an assignment of Computer Net
 - Change in Droptail queue's deque operation.
 - Change in average calculation mechanism of RTT.
   
-The details of the modifications can be found in the [project report](https://docs.google.com/document/d/1Ot-690dkxtCrEF8R09rs99eUwky0S6144jPTrgZadEw/).  
-  
   
 **Setup**:
 - First, install ns-allinone-2.35 (preferably in your home folder). You may follow the instructions in "ns2-install-procedure.md" or from any other helping site.  
